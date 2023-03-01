@@ -1,0 +1,86 @@
+[
+  {
+    "Project_type": "Amazon",
+    "NumProgrammers": 4,
+    "programmer_in_charge": [
+      {
+        "name": "David",
+        "lastName": "Consta",
+        "activity": "Ceo Google",
+        "category": "Programmer_in_charge",
+        "periodInit": "2023/01/10",
+        "periodEnd": "2023/02/04",
+        "time": 25,
+        "nextMoothDays": "04",
+        "cost": 800,
+        "EmployeesList": [
+          {
+            "name": "Marian",
+            "lastName": "Lopez",
+            "activity": "full stack",
+            "category": "Employees",
+            "periodInit": "2023/01/10",
+            "periodEnd": "2023/02/01",
+            "time": 22,
+            "nextMoothDays": "01",
+            "cost": 400
+          }
+        ]
+      },
+      {
+        "name": "Nerea",
+        "lastName": "Martin",
+        "activity": "Scrum Master",
+        "category": "Programmer_in_charge",
+        "periodInit": "2023/01/05 ",
+        "periodEnd": "2023/02/04",
+        "time": 30,
+        "nextMoothDays": "04",
+        "cost": 500,
+        "EmployeesList": [
+          {
+            "name": "Marta",
+            "lastName": "Gonzalez",
+            "activity": "full stack",
+            "category": "Employees",
+            "periodInit": "2023/01/05",
+            "periodEnd": "2023/02/02",
+            "time": 28,
+            "nextMoothDays": "02",
+            "cost": 250
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Project_type": "google",
+    "NumProgrammers": 2,
+    "programmer_in_charge": [
+      {
+        "name": "Jose",
+        "lastName": "Consta",
+        "activity": "Scrum Master",
+        "category": "Programmer_in_charge",
+        "periodInit": "2023/01/20",
+        "periodEnd": "2023/02/04",
+        "time": 15,
+        "nextMoothDays": "04",
+        "cost": 800,
+        "EmployeesList": [
+          {
+            "name": "Maite",
+            "lastName": "Lopez",
+            "activity": "full stack",
+            "category": "Employees",
+            "periodInit": "2023/01/20",
+            "periodEnd": "2023/02/04",
+            "time": 15,
+            "nextMoothDays": "04",
+            "cost": 400
+          }
+        ]
+      }
+    ]
+  }
+]
